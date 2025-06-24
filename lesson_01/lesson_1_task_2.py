@@ -1,4 +1,3 @@
-my_age = '30'
-print("мой возраст, 30")
-my_age = '33'
-print("мой возраст через 3 года, 33")
+my_age = 30
+my_age += 3
+print(my_age)
